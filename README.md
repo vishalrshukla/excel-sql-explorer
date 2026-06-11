@@ -1,6 +1,6 @@
 # Natural Language to SQL Explorer for Excel Locally⚡
 
-Query Excel and CSV files using SQL — works fully **offline**, no internet required.
+Query Excel and CSV files using Natural language or SQL — works fully **offline**, no internet required.
 
 ## Features
 

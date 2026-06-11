@@ -1,4 +1,4 @@
-# Excel Natural Language and SQL Explorer ⚡
+# Excel Natural Language to SQL Explorer ⚡
 
 Query Excel and CSV files using SQL — works fully **offline**, no internet required.
 
